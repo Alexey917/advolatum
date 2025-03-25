@@ -1,5 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
 .App {
   text-align: center;
+  background: linear-gradient(#0E141C, #0A0F14);
 }
 
 .App-logo {
