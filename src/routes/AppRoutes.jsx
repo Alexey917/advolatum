@@ -1,5 +1,5 @@
 import { Routes, Route } from "react-router-dom";
-import { Layout } from "../components/Layout";
+import { Layout } from "../components/UI/Layout/Layout";
 
 export const AppRoutes = () => {
   return (

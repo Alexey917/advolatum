@@ -14,12 +14,6 @@
   padding: 0;
 }
 
-.social {
-  display: flex;
-  list-style: none;
-  padding: 0;
-}
-
 .link {
   font-family: "Rosario", sans-serif;
   font-weight: 400;
@@ -34,22 +28,4 @@
   color: #D1C12B;
 }
 
-.logo {
-  width: 122px;
-  height: 35px;
-}
 
-.tg {
-  width: 28px;
-  height: 15px;
-}
-
-.vk {
-  width: 36px;
-  height: 15px;
-}
-
-.inst {
-  width: 26px;
-  height: 15px;
-}

@@ -1,0 +1,15 @@
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 34px;
+}
+
+.privacy_policy {
+  font-family: "Rosario", sans-serif;
+  font-weight: light;
+  font-size: 15px;
+  text-decoration: none;
+  color: #ffffff;
+  text-align: left;
+}
